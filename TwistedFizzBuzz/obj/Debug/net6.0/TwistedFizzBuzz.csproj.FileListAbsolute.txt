@@ -1,0 +1,12 @@
+C:\Users\Dev\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\bin\Debug\net6.0\TwistedFizzBuzz.deps.json
+C:\Users\Dev\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\bin\Debug\net6.0\TwistedFizzBuzz.dll
+C:\Users\Dev\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\bin\Debug\net6.0\TwistedFizzBuzz.pdb
+C:\Users\Dev\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.csproj.AssemblyReference.cache
+C:\Users\Dev\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.AssemblyInfo.cs
+C:\Users\Dev\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.dll
+C:\Users\Dev\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net6.0\refint\TwistedFizzBuzz.dll
+C:\Users\Dev\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net6.0\TwistedFizzBuzz.pdb
+C:\Users\Dev\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net6.0\ref\TwistedFizzBuzz.dll

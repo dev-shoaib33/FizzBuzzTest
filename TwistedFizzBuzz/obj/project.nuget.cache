@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xS6RHBiKLrBaSfPcuCpTtIg0K0jgo+7pZI/FNWtcFTT7EbNlt7WEjW/eZwsJVnMSv6PIAYpDpv28eu59wmL/AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dev\\source\\repos\\TwistedFizzBuzz\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
